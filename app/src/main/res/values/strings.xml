@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="tel">(27) 3326-5298</string>
+    <string name="email">contato@mangotveiculos.com.br</string>
+    <string name="endereco">Praça: Vereador Sebastião Cibien, Nº Cobilândia - Vila Velha - ES</string>
+    <string name="about">Empresa tradicional no ramo de veículos, trabalha sempre focada na satisfação dos seus clientes. Mantendo sempre um estoque atualizado e com veículos de qualidade, desta forma fidelizando a cada dia mais clientes.</string>
+
+</resources>
